@@ -1,0 +1,10 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+Flask-SQLAlchemy==3.0.5
+Flask-JWT-Extended==4.5.3
+opencv-contrib-python==4.8.1.78
+Pillow==10.0.1
+numpy>=1.26.0
+PyMySQL==1.1.0
+python-dotenv==1.0.0
+Werkzeug==2.3.7
