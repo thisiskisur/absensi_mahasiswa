@@ -151,3 +151,11 @@ backend/static/uploads/*
 # Logs
 *.log
 logs/
+
+# Face recognition models
+backend/face_model.yml
+backend/face_labels.pkl
+
+# Temporary files
+*.tmp
+*.temp
